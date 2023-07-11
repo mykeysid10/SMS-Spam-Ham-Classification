@@ -6,7 +6,7 @@
 
 - SMS ham/spam classification involves distinguishing between legitimate (ham) and unsolicited (spam) text messages.
 - Ham Messages Samples: Lol your always so convincing | Sorry, I'll call later | I HAVE A DATE ON SUNDAY.
-- Spam Messages Samples: Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005 | URGENT: Your account has been compromised.
+- Spam Messages Samples: Free entry to win FA Cup final tkts 21st 2005 | URGENT: Your account has been compromised.
 - Text preprocessing techniques used: tokenization, stemming, removing of stop words.
 - Feature engineering: extracting relevant features from the text using count vectorizer or Tfidf vectorizer.
 - Machine learning algorithms: Naive Bayes, Random Forests.
